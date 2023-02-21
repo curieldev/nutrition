@@ -10,4 +10,5 @@
 - 0.2 to 0.25 g/lb (0.44 to 0.55g/kg) of bodyweight for both carbs and protein.
 
 # Post-Workout
-- 
+- 0.5 to 1 hour after workout.
+- Same macros as pre-workout.
