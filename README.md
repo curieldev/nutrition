@@ -12,3 +12,6 @@
 ## Post-Workout
 - 0.5 to 1 hour after workout.
 - Same macros as pre-workout.
+
+## Fish
+- Recommended twice a week.
